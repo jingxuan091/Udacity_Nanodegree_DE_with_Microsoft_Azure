@@ -1,0 +1,9 @@
+{
+	"name": "adfjingxuan",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "baee02e3-fb50-4caa-8907-818119bb49f3",
+		"tenantId": "55774129-1adc-44b7-8dfd-82d0df7f9ba0"
+	}
+}
